@@ -24,10 +24,5 @@ The “similar movies” are the output of the content-based recommender functio
 
 On the other side, “other users also liked” movies are the output of the collaborative recommender function, that first finds users who really liked the selected movie (those who rated it 5/5) and then calculates the 10 movies most well rated by them on average. 
 
-![Netflix movie page](https://user-images.githubusercontent.com/63505124/136290222-4087f1a1-8649-42d6-871a-3713b7303e08.png)
-
-
-
-<i>[ FULL DOCUMENTATION TEMPORARY AVAILABLE HERE: https://www.linkedin.com/pulse/how-i-built-movie-recommender-from-scratch-laravel-after-malune/ ]</i>
 # movie_recomendation_system
 # movie_recom_system
